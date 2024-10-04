@@ -19,7 +19,7 @@
    - Listings with no reviews from the last 12 months are most likely inactive.
 
 ### Part 2 - Which type of properties should be targeted?
-* There are so many potential vacation rental properties in New York City that it can be overwhelming to determine where to start searching. Your client would like help prioritizing where they should be focusing their research.
+* There are so many potential vacation rental properties in New York City that it can be overwhelming to determine where to start searching. My client would like help prioritizing where they should be focusing their research.
 
 ### Questions answered on the project:
 
