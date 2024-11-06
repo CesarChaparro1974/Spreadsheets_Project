@@ -35,6 +35,8 @@
 * Estimating annual revenue requires a representative sample of properties that are similar to the type of property an investor might purchase (e.g., actively rented properties or properties with good reviews).
 * I selected one of the top five neighborhoods and the corresponding property size that I’d like to recommend to my investor. To estimate annual revenue, I needed to calculate the average price and occupancy rates for a representative sample of listings.
 
+Click here to see the project.
+
 ### Part 5 - What attributes are important for a vacation rental?
 * For the top neighborhoods, my investor would like some insight into what features and attributes might impact how well a property will perform.  
 
