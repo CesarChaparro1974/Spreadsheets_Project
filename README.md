@@ -1,3 +1,5 @@
+![Alt Text](assets/vacation_rental.png)
+
 # Vacation rental market in Manhattan
 
 ## Overview
